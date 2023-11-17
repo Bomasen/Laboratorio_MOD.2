@@ -1,3 +1,7 @@
-import "./style.css";
+//Realizo el ejercicio con variables porque me resulta mas visual:
 
-console.log("Hello Typescript!");
+let ticket = 120
+let priceDrink = 18
+let friends = 6
+
+console.log((ticket-priceDrink)/friends);
